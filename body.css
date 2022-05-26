@@ -1,0 +1,21 @@
+body{
+    background-color: #292b23;
+    text-align: center;
+    
+}
+.picture{
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+
+}
+.header{
+    color: #fbb73a;
+}
+.tekst{
+    color: lavender;
+    margin-left: 3cm;
+    margin-right: 3cm;
+}
+
